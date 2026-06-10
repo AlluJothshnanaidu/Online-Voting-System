@@ -315,6 +315,6 @@ By building this project, you will learn:
 
 Java Full Stack Developer
 
-GitHub: `https://github.com/jothsnanaidu2005-ship-it`
+Email: `jothshnanaidu@gmail.com`
 
 ---
