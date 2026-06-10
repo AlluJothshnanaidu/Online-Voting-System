@@ -283,37 +283,6 @@ Result.jsp
 
 ---
 
-## 📸 Screens
-
-### Home Page
-
-* Register
-* Login
-* View Results
-
-### Registration Page
-
-* Name
-* Email
-* Password
-* Mobile Number
-
-### Login Page
-
-* Email
-* Password
-
-### Voting Page
-
-* Candidate Selection
-* Vote Submission
-
-### Results Page
-
-* Candidate Name
-* Total Votes
-
----
 
 ## 🔐 Security Features
 
