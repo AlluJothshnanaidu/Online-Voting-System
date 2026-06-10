@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Register</title>
+</head>
+<body>
+
+<h2>Voter Registration</h2>
+
+<form action="register" method="post">
+
+Name:
+<input type="text" name="name">
+<br><br>
+
+Email:
+<input type="email" name="email">
+<br><br>
+
+Password:
+<input type="password" name="password">
+<br><br>
+
+Mobile:
+<input type="text" name="mobile">
+<br><br>
+
+<input type="submit" value="Register">
+
+</form>
+
+</body>
+</html>
